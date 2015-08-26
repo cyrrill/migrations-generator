@@ -1,5 +1,5 @@
 {
-	"name": "xethron/migrations-generator",
+	"name": "cyrrill/migrations-generator",
 	"description": "Generates Laravel Migrations from an existing database",
 	"keywords": ["laravel", "migration", "generator", "migrations", "artisan"],
 	"license": "MIT",
@@ -12,7 +12,7 @@
 	"require": {
 		"php": ">=5.3.0",
 		"illuminate/support": "~4.1",
-		"way/generators": "2.*",
+		"cyrrill/generators": "2.*",
 		"doctrine/dbal": "~2.4"
 	},
 	"autoload": {
