@@ -1,1 +1,1 @@
-# Laravel Migrations Generator
+# Laravel Migrations Generator 
